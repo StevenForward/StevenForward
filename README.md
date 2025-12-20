@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Steven👋
+
+currently:
+- Extern @ Outamation 🧑‍💻
+- Computer Science major and Math minor @ Hunter College
+- 
+
+
+
+
+
+
+
+
+
 
 <!--
 **StevenForward/StevenForward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
