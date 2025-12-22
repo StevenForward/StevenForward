@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Aspiring Software Engineer | CS + Math minor @ CUNY Hunter College (2027)
- <br> *Exploring the intersection of Social Inequities, Health Tech, and Small Business Solutions.*
+ <br> Exploring projects in social inequities, health tech, and small business solutions
 </p>
 
 <p align="center">
