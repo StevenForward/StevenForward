@@ -3,6 +3,7 @@
 🚀 **Aspiring Software Engineer | CS + math minor @ CUNY Hunter College (2027)**  
 🔍 Exploring projects in social inequities, health tech, and small business solutions 
 
+
 ---
 
 ## 💼 Experience
