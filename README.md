@@ -15,7 +15,7 @@
 ## 💼 Experience
 
 ### 🤖 Extern @ Outamation 
-*Dec 2025 – Present*
+*February – Present*
 - **AI Pipelines:** Built modular pipelines for 200+ page mortgage docs using OCR (Tesseract, PaddleOCR) and PyMuPDF.
 - **RAG Systems:** Developed multi-document retrieval using **LlamaIndex**, optimizing chunking and metadata indexing for LLMs like Mistral and Phi-2.
 - **Evaluation:** Designed a framework to assess OCR accuracy and pipeline throughput, delivering deployment-ready technical reports.
