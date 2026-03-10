@@ -26,7 +26,7 @@
 - Supported global financial inclusion efforts through data-driven research and visualization.
 
 ### 🖥️ IT Assistant @ NYC Department of Education
-*May – June 2025*
+*Oct 2021 – June 2023*
 - Troubleshot GUI components and hardware issues for students and faculty.
 - Ensured software compliance with NYC DOE policies and optimized system performance.
 
