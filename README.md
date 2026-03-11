@@ -8,11 +8,12 @@
 <p align="center">
   <img src="sunny(1).jpeg" width="250" style="border-radius: 50%;" alt="Sunny the Golden Retriever">
   <br>
-  <strong>Meet Sunny ☀️: Entry Level Code Retriever</strong> 🐾
+  <strong>Meet Sunny ☀️: The Code Retriever</strong> 🐾
 </p>
 
 
 ## 💼 Experience
+
 
 ### 🤖 Extern @ Outamation 
 *February – Present*
