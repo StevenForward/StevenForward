@@ -11,7 +11,6 @@
   <strong>Meet Sunny ☀️: The Code Retriever</strong> 🐾
 </p>
 
-## Resume: https://stevensanresume.tiiny.site
 ## 💼 Experience
 
 
