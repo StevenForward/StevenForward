@@ -14,11 +14,16 @@
 ## 💼 Experience
 
 
-### 🤖 Extern @ Pfizer (switched from Outamation) 
-*February – Present*
+### 🤖 Extern @ Pfizer
+*October – Present*
 - **AI Pipelines:** Built modular pipelines for 200+ page mortgage docs using OCR (Tesseract, PaddleOCR) and PyMuPDF.
 - **RAG Systems:** Developed multi-document retrieval using **LlamaIndex**, optimizing chunking and metadata indexing for LLMs like Mistral and Phi-2.
 - **Evaluation:** Designed a framework to assess OCR accuracy and pipeline throughput, delivering deployment-ready technical reports.
+
+### 🤖 Software Development / Data Science Fellow @ CUNYTechPrep
+*June – Present*
+- Selected for a competitive web development fellowship with students from across the 11 CUNY senior colleges where fellows create technical projects using tools such as TypeScript, React, Node + Express, and PostgreSQL
+- Participate in weekly courses and learn industry best practices for designing, implementing, and deploying full-stack web applications, including AI-native software development, cloud engineering, version control with Git/GitHub, the agile software development lifecycle, security, and CI/CD.
 
 ### 🧠 Data Analytics Researcher @ DataKind's Datakit
 *March 2025 – May 2025*
